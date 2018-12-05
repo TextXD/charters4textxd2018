@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - bokeh
   - scikit-learn
   - gensim
   - numpy
