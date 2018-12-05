@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhaber-zz/charters4textxd2018/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TextXD/charters4textxd2018/master)
 # Word Embeddings: Workshop and Exploration of Charter Schools
 This repository includes a workshop (more info below) introducing word embedding models as well as hack session starter code for loading and exploring word embedding models with charter school data. Some data are contained in the repo; others will be linked into the Jupyter instance we'll set up to start the workshop. The charter school data come from author Jaren Haber's web-scraping of charter school websites, and the embeddings were created in the word2vec implementation in gensim. The repository is prepared for TextXD 2018 (http://www.textxd.org/) at the Berkeley Institute for Data Science (BIDS), UC Berkeley. 
 
@@ -26,3 +26,4 @@ If you notice a problem with these materials, please make an issue describing th
 
 ### Acknowledgments
 * Laura Nelson and [the D-Lab](http://dlab.berkeley.edu/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TextXD/charters4textxd2018/master)
